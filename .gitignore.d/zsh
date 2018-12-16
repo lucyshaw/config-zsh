@@ -7,6 +7,8 @@
 !/.config/zsh/ls
 !/.config/zsh/ls/aliases.zsh
 !/.config/zsh/ls/config.zsh
+!/.config/zsh/system
+!/.config/zsh/system/path.zsh
 !/.config/zsh/zsh
 !/.config/zsh/zsh/aliases.zsh
 !/.config/zsh/zsh/completion.zsh
